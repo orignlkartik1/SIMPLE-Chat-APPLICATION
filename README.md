@@ -1,2 +1,2 @@
-# plagpy
-it is a plagiarism detection by using python. 
+# BANK APPLICATION
+JAVA BANK APPLICATION 
